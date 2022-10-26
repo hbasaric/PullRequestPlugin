@@ -16,7 +16,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class GeneratePullRequest {
-	private static final String authorization = "Bearer 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";
+	private static final String authorization = "Bearer xxx";
 	// private static final String baseUrl =
 	// "https://api.github.com/repos/{your_username}/{your_repo_name}";
 	private static final String baseUrl = "https://api.github.com/repos/hbasaric/PullRequestPlugin";
